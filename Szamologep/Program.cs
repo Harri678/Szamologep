@@ -20,6 +20,10 @@ namespace Szamologep
         {
             return a / b;
         }
+        public double szorzas(double a, double b)
+        {
+            return a * b;
+        }
         static void Main(string[] args)
         {
         }
