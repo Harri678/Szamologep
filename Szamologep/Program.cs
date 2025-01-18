@@ -24,6 +24,10 @@ namespace Szamologep
         {
             return a * b;
         }
+        public double szazalek(double a, double b)
+        {
+            return a * b / 100;
+        }
         static void Main(string[] args)
         {
         }
