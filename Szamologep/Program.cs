@@ -12,6 +12,10 @@ namespace Szamologep
         {
             return a + b;
         }
+        public double Kivonas(double a, double b)
+        {
+            return a - b;
+        }
         static void Main(string[] args)
         {
         }
