@@ -16,6 +16,10 @@ namespace Szamologep
         {
             return a - b;
         }
+        public double osztas(double a, double b)
+        {
+            return a / b;
+        }
         static void Main(string[] args)
         {
         }
